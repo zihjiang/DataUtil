@@ -1,0 +1,23 @@
+{
+  "name": "DataUtil",
+  "homepage": "https://github.com/zihjiang/DataUtil",
+  "main": [
+    "./dist/datautil.js"
+  ],
+  "dependencies": {
+    "angular": ">=1.2.18"
+  },
+  "devDependencies": {
+    "angular": ">=1.2.18"
+  },
+  "_release": "e3b69f09f7",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e3b69f09f7c5d17139cd2c45f626786df1fba32a"
+  },
+  "_source": "https://github.com/zihjiang/DataUtil.git",
+  "_target": "*",
+  "_originalSource": "zihjiang/DataUtil",
+  "_direct": true
+}
